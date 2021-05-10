@@ -7,10 +7,9 @@ sections:
     title: >-
       Hi! I'm a 20 year-old computer science student who likes writing, foreign
       languages & design.
-    content: >-
-      We are a brand and design practice. We work closely with you, your team to
-      deliver inspiring work, which enables your organization to grow. [Let's
-      talk](/contact/).
+    content: >
+      Let's talk a little about what I study to contribute to a society who most
+      probably hates me.
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
