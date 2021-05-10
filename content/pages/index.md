@@ -4,7 +4,9 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: Hi! I'm a 20 year-old computer science student
+    title: >-
+      Hi! I'm a 20 year-old computer science student who likes writing, foreign
+      languages & design.
     content: >-
       We are a brand and design practice. We work closely with you, your team to
       deliver inspiring work, which enables your organization to grow. [Let's
