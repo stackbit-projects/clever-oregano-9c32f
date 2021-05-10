@@ -9,7 +9,8 @@ sections:
       languages & design.
     content: >
       Let's talk a little about what I study to contribute to a society who most
-      probably hates me.
+      probably hates me (as a demisexual woman who consistently disagrees with
+      the government).
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
