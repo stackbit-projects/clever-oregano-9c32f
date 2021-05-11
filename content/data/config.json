@@ -16,12 +16,12 @@
                 "style": "link"
             },
             {
-                "label": "Work",
+                "label": "work",
                 "url": "/portfolio/",
                 "style": "link"
             },
             {
-                "label": "Journal",
+                "label": "journal",
                 "url": "/blog/",
                 "style": "link"
             },
