@@ -1,6 +1,6 @@
 ---
 title: journal
-subtitle: 'News, tips and highlights'
+subtitle: A small blog where I rant about both my hobbies and my pet peeves.
 hide_title: false
 col_number: three
 seo:
