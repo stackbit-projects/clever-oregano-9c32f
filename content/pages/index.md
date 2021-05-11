@@ -9,8 +9,8 @@ sections:
       languages & design.
     content: >
       Let's talk a little about what I study to contribute to a society who most
-      probably hates me (as a
-      [demisexual/queer](https://en.wikipedia.org/wiki/Gray_asexuality#Demisexuality)
+      probably hates me (as a biromantic,
+      [demisexual](https://en.wikipedia.org/wiki/Gray_asexuality#Demisexuality)
       woman who consistently disagrees with the government).
   - type: portfolio_section
     section_id: latest-projects
